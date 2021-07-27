@@ -208,6 +208,16 @@ Awesome Amateur Radio Resources and Links.
 - [OpenWebRX](https://www.openwebrx.de/)
 - [WebSDR](http://www.websdr.org/)
 
+
+# sdr software
+
+- [Sdr#](https://airspy.com/download/)
+- [Sdr++](https://github.com/AlexandreRouma/SDRPlusPlus)
+- [Ham radio Deluxe](https://www.hamradiodeluxe.com/downloads/)
+- [SDR Console](https://www.sdr-radio.com/)
+- [GQRX](https://gqrx.dk/)
+
+
 # shopping
 
 Although these shops are listed by country, they might provide world wide shipping.
